@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a creative problem solver powered by tech and fuelled by curiosity 
+- 👋 Hi,I am a Computer science and engineering graduate 
 - 👀 Fullstack Developer 
 - 💻 Multidisciplinary Designer (Graphic designer & UI/UX)
 
