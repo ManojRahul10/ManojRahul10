@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ManojRahul10
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Java Programming
+- 👋 Hi, I’m a creative problem solver powered by tech and fuelled by curiosity 
+- 👀 Fullstack Developer 
+- 💻 Multidisciplinary Designer (Graphic designer & UI/UX)
 
 <!---
 ManojRahul10/ManojRahul10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
